@@ -15,6 +15,6 @@ class UserController extends Controller
      */
     public function showProfile($id)
     {
-        return view('user.profile', ['id' => $id]);
+        echo SteamService::getSteamPlayerSummary($id);
     }
 }
