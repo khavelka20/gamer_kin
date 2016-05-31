@@ -1,0 +1,13 @@
+Transcode
+https://upload.gfycat.com/transcodeRelease/khavelka23?fetchUrl=https://www.youtube.com/watch?v=OBHvRe6-VkM&fetchLength=15&fetchMinutes=4.3333333333333
+
+Status
+http://upload.gfycat.com/status/khavelka23
+
+Embed
+https://zippy.gfycat.com/TalkativeMetallicAzurewingedmagpie.webm
+
+https://fat.gfycat.com/TalkativeMetallicAzurewingedmagpie.webm
+
+
+{"gfyItem":{"gfyId":"talkativemetallicazurewingedmagpie","gfyName":"TalkativeMetallicAzurewingedmagpie","gfyNumber":"185571225","userName":"anonymous","width":"1280","height":"720","frameRate":"30","numFrames":"450","mp4Url":"https:\/\/giant.gfycat.com\/TalkativeMetallicAzurewingedmagpie.mp4","webmUrl":"https:\/\/fat.gfycat.com\/TalkativeMetallicAzurewingedmagpie.webm","webpUrl":"https:\/\/thumbs.gfycat.com\/TalkativeMetallicAzurewingedmagpie.webp","mobileUrl":"https:\/\/thumbs.gfycat.com\/TalkativeMetallicAzurewingedmagpie-mobile.mp4","mobilePosterUrl":"https:\/\/thumbs.gfycat.com\/TalkativeMetallicAzurewingedmagpie-mobile.jpg","posterUrl":"https:\/\/thumbs.gfycat.com\/TalkativeMetallicAzurewingedmagpie-poster.jpg","thumb360Url":"https:\/\/thumbs.gfycat.com\/TalkativeMetallicAzurewingedmagpie-360.mp4","thumb360PosterUrl":"https:\/\/thumbs.gfycat.com\/TalkativeMetallicAzurewingedmagpie-thumb360.jpg","thumb100PosterUrl":"https:\/\/thumbs.gfycat.com\/TalkativeMetallicAzurewingedmagpie-thumb100.jpg","max5mbGif":"https:\/\/thumbs.gfycat.com\/TalkativeMetallicAzurewingedmagpie-size_restricted.gif","max2mbGif":"https:\/\/thumbs.gfycat.com\/TalkativeMetallicAzurewingedmagpie-small.gif","mjpgUrl":"https:\/\/thumbs.gfycat.com\/TalkativeMetallicAzurewingedmagpie.mjpg","gifUrl":"https:\/\/giant.gfycat.com\/TalkativeMetallicAzurewingedmagpie.gif","gifSize":"63479144","mp4Size":"4343742","webmSize":"1183995","createDate":"1464699624","views":1,"title":null,"extraLemmas":["counter","get","global","offensiveobhvre","start","strike"],"md5":"c5aa7f752208d3b8c303fc8e0b7b6c3c","tags":null,"nsfw":null,"sar":"1","url":"https:\/\/www.youtube.com\/watch?v=OBHvRe6-VkM","source":"1","dynamo":null,"subreddit":null,"redditId":null,"redditIdText":null,"likes":null,"dislikes":null,"published":null,"description":null,"copyrightClaimaint":null,"languageText":null}}

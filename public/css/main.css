@@ -1,0 +1,88 @@
+a.sidebar-brand {
+    display: block;
+    text-align: center;
+    padding: 15px;
+    background: #107c10;
+}
+
+#fixed-message{
+    background: #5191E1;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    color: #fff;
+}
+.sidebar-brand img{
+    width: 125px;
+    margin: 0 auto;
+}
+
+#quick-explanation{
+    color:#fff;
+    background: #333;
+    padding: 15px 0 15px 30px;
+}
+
+body{
+    background-color: #eee;
+    font-family: 'Roboto', sans-serif;
+}
+
+#page-content-wrapper .container-fluid{
+    padding-left: 25px;
+}
+
+#page{
+    background: #fff;
+    padding: 10px 20px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    margin-top: 20px;
+}
+
+.game-header-img{
+    border-radius: 2px;
+    box-shadow: 3px 3px 3px #999;
+}
+
+h4.game-title{
+    margin-bottom: 5px;
+}
+
+.star-rating{
+    color:#FD7400;
+    font-size: 18px;
+}
+
+.game-genres{
+    margin-top: 5px;
+}
+
+.loader{
+    position: absolute;
+    width: 96%;
+    text-align: center;
+    background: #fff;
+    opacity: .9;
+}
+.game-preview-container{
+    height: 175px;
+    position: relative;
+    width: 375px;
+    background: black;
+}
+.preview-options{
+    position: absolute;
+    bottom:10px;
+    left:10px;
+}
+.game-box{
+    height: 300px; 
+    max-width: 460px;
+    position:relative;
+}
+
+.label-preview-hover{
+    position: absolute;top:10px;right:10px;
+}

@@ -7,17 +7,11 @@ use App\Services\SteamService;
 
 class UserController extends Controller
 {
-    /**
-     * Show the profile for the given user.
-     *
-     * @param  int  $id
-     * @return Response
-     */
+    
     public function showProfile($id)
     {
         $steamService = new SteamService();
         
         return $steamService->getSteamPlayerSummary($id);
-        
     }
 }

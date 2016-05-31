@@ -1,0 +1,36 @@
+<h2>Browse For Games</h2>
+<hr/>
+<div class="row">
+    <div class="col-lg-3 col-md-4 col-xs-6" ng-repeat="game in vm.games">
+        <div class="game-box">
+            <img class="img-responsive game-header-img" 
+                 ng-src="<%game.logo%>"
+                 ng-show="game.showHeader"
+                 style="cursor: pointer;"
+                 ng-click="showPreview(game)">
+            <div class="game-preview-container"
+                 ng-if="game.showPreview"
+                 ng-if="game.showPreview && game.previewType === 'GIF'">
+                <video width="370" height="173" autoplay loop>
+                    <source src="http://127.0.0.1/edsa-gk/img/gif/test.webm" type="video/webm">
+                </video>
+                <div class="btn-group preview-options">
+                    <label class="btn btn-primary btn-xs" 
+                           ng-click="togglePreviewType()" 
+                           ng-model="game.previewType" 
+                           uib-btn-radio="GIF">
+                        GIF
+                    </label>
+                    <label class="btn btn-primary btn-xs" 
+                           ng-click="togglePreviewType()" 
+                           ng-model="game.previewType" 
+                           uib-btn-radio="Video">
+                        Video
+                    </label>
+                </div>
+            </div>
+            <h4><% game.name %></h4>
+        </div>
+    </div>
+</div>
+<script src="https://www.youtube.com/iframe_api"></script> 
